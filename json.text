@@ -1,0 +1,25 @@
+{
+    "Liiv2": [
+        {
+            "room": "311",
+            "student": [
+                "mohan",
+                "ding"
+            ]
+        },
+        {
+            "room": "307",
+            "student": [
+                "Mariano",
+                "Satish"
+            ]
+        },
+        {
+            "room": "317",
+            "student": [
+                "Marlon",
+                "Dumas"
+            ]
+        }
+    ]
+}
